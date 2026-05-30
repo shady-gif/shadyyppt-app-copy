@@ -9,3 +9,6 @@ outputs/node-inspect/
 outputs/assets/
 outputs/generated/
 web/generated-previews/
+
+# Keep large PowerPoint templates out of the Vercel frontend repo.
+templates/*.pptx
